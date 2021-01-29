@@ -13,5 +13,5 @@
 ### vlmcsd
 [![auto build engine](https://github.com/ActiveIce/vlmcsd/workflows/auto%20build%20engine/badge.svg)](https://github.com/ActiveIce/vlmcsd/actions)
 
-### leela_gg_training
-[![auto build engine](https://github.com/ActiveIce/leela_gg_training/workflows/auto%20build%20engine/badge.svg)](https://github.com/ActiveIce/leela_gg_training/actions)
+### katago
+[![auto build engine](https://github.com/ActiveIce/katago/workflows/auto%20build%20engine/badge.svg)](https://github.com/ActiveIce/katago/actions)
